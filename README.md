@@ -23,10 +23,14 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
-</p>
+
+
+</br>
 	
-</br>	
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=alfaniM&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21"/>
+<h4 align="center">M.A. Alfani's Github Stats<h4/>	
+<p align="center">
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=alfaniM&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21&?theme=radical"/>
+</p>
 </br>	
 
 
