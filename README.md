@@ -12,9 +12,6 @@
 		<img src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </p>
-
-<br>
-
 <h4 align="center">Some Technologies, Languages, Frameworks and others<h4/>
 	
 <p align="center">
@@ -25,14 +22,31 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 
 
-</br>
-	
-<h4 align="center">M.A. Alfani's Github Stats<h4/>	
-<p align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=alfaniM&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21&?theme=radical"/>
-</p>
 </br>	
 
+---
+
+
+
+	
+<p align="center">
+<a href="https://github.com/alfaniM">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfaniM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfaniM&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+</br>	
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/7bs19gsmezur4pum5v3ba0y0k)
+<br/>
+---
 
 
 	
