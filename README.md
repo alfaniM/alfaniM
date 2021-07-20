@@ -1,10 +1,10 @@
-<h1 align="center">Muhammad Alfani</h1>
+<h1 align="left">Muhammad Alfani</h1>
 
-<h5 align="center">Cloud Computing Student at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
+<h5 align="left">Cloud Computing Student at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
    2021 Programs .</h5>
 <h4 align="center">A Student who loves to learn and create new things. Keeping the good mood and the good code! <h4/>
 
-<p align="center">
+<p align="left">
 	<a href="https://www.instagram.com/m.alfaniii">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
@@ -12,9 +12,9 @@
 		<img src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </p>
-<h4 align="center">Some Technologies, Languages, Frameworks and others<h4/>
+<h4 align="left">Some Technologies, Languages, Frameworks and others<h4/>
 	
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/codeigniter-F05032?style=for-the-badge&logo=codeigniter&logoColor=white" alt="git" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 
 
 	
-<p align="center">
+<p align="left">
 <a href="https://github.com/alfaniM">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfaniM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfaniM&layout=compact&langs_count=8&theme=algolia"/>
@@ -44,8 +44,10 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/7bs19gsmezur4pum5v3ba0y0k)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7bs19gsmezur4pum5v3ba0y0k&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br/>
+
+
 ---
 
 
