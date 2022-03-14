@@ -1,5 +1,7 @@
 <h1 align="left">Hello!  Im  Alfani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
+<img width="350" alt="GIF" align="right" src="https://media.giphy.com/media/Wze3hSM6MhB4c4RBWN/giphy.gif">
+
 <h5 align="left">Cloud Computing Facilitator at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
    2022 Programs .</h5>
 
