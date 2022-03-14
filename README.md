@@ -1,7 +1,7 @@
 <h1 align="left">Hello! 👋 Im  Alfani</h1>
 
-<h5 align="left">Cloud Computing Student at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
-   2021 Programs .</h5>
+<h5 align="left">Cloud Computing Facilitator at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
+   2022 Programs .</h5>
 
 <p align="left">
 	<a href="https://www.instagram.com/m.alfaniii">
