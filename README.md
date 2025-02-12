@@ -2,14 +2,14 @@
 
 <img width="350" alt="GIF" align="right" src="https://media.giphy.com/media/Wze3hSM6MhB4c4RBWN/giphy.gif">
 
-<h5 align="left">Cloud Computing Facilitator at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
+<h5 align="left">Cloud Computing Facilitator at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Designer & Love Code »</strong></a>
    2022 Programs .</h5>
 
 <p align="left">
 	<a href="https://www.instagram.com/m.alfaniii">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-  	<a href="https://www.linkedin.com/in/muhamamdauliaalfani/">
+  	<a href="https://www.linkedin.com/in/alfaniaulia/">
 		<img src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </p>
