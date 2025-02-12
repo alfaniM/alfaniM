@@ -1,4 +1,4 @@
-<h1 align="left">Hello!  Im  Alfani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h1 align="left">Hello!  Im  Alfani | Graphic Designer who love coding<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
 <img width="350" alt="GIF" align="right" src="https://media.giphy.com/media/Wze3hSM6MhB4c4RBWN/giphy.gif">
 
